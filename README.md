@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - :man_technologist: My [hackerrank](https://www.hackerrank.com/gardnerdev) profile
 
 ### What am I up to now
-- 🌱 I’m currently learning Golang and distributed systems
+- 🌱 I’m learning Golang and distributed systems
 -  :link: I am fascinated by the society-changing potential of the blockchain technology!
 - 🤔 I’m looking for help with opensource contribution (Python/Golang)
 
