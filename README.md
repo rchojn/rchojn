@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as **MlOps&DevOps/Python developer**
+- 🔭 I’m currently working as **DevOps&MlOps/Python developer**
 - 🌱 I’m currently learning Golang and blockchain technologies
 - 🤔 I’m looking for help with opensource contribution (Python/Golang)
 
