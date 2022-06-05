@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 🌱 I’m learning Golang and distributed systems
 -  :link: I am fascinated by the society-changing potential of the blockchain technology!
 - 🤔 I’m looking for help with opensource contribution (Python/Golang)
-
 <!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gardnerdev&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=dracula&include_all_commits=true">
