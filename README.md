@@ -5,9 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-
+- :man_student: I studied Information Technology at the [Warsaw Univeristy of Technology](https://p.lodz.pl/en](https://www.pw.edu.pl/engpw))
 - 🔭 I’m currently working as **DevOps&MlOps/Python developer**
-- 🌱 I’m currently learning Golang and blockchain technologies
+
+
+### What am I up to now
+- 🌱 I’m currently learning Golang and distributed systems
+-  :link: I am fascinated by the society-changing potential of the blockchain technology!
 - 🤔 I’m looking for help with opensource contribution (Python/Golang)
 
 
