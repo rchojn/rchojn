@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - :man_student: I studied Information Technology at the [Warsaw Univeristy of Technology](https://www.pw.edu.pl/engpw)
-- 🔭 I’m currently working as **DevOps&MlOps/Python developer**
+- 🔭 I’m currently working as **DevOps&MLOps/Python developer**
 - :man_technologist: My [hackerrank](https://www.hackerrank.com/gardnerdev) profile
 
 ### What am I up to now
