@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as **DevOps&MLOps/Python developer**
 - :man_technologist: My profiles:
   * [LeetCode](https://leetcode.com/gardnerdev/)
-  * [HackerRank](https://www.hackerrank.com/gardnerdev) 
 
 ### What am I up to now
 - 🌱 I’m learning Golang and distributed systems
