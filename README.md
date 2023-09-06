@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with opensource contribution (Python/Golang)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gardnerdev&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=dracula&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=gardnertechhq&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=dracula&include_all_commits=true">
 </p>
 <!-- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gardnerdev&theme=tokyonight)
