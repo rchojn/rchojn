@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - :man_student: I studied Information Technology at the [Warsaw Univeristy of Technology](https://www.pw.edu.pl/engpw)
-- 🔭 I’m currently working as developer in following areas: **DevOps**, **MLOps**, **Cloud**
+- 🔭 I’m currently working as developer in following areas: **DevSecOps**,**Cloud Engineering** **MLOps**,
 - :man_technologist: My profiles:
   * [LeetCode](https://leetcode.com/gardnertechhq/)
 
