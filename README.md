@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 -  :link: I am fascinated by the society-changing potential of the blockchain technology
 - 🤔 I’m looking for opensource contribution (Python/Golang)
 
-![gardnertechhq's GitHub stats](https://github-readme-stats.vercel.app/api?username=gardnertechhq&show_icons=true&theme=transparent)
+<p align="center">
+  ![gardnertechhq's GitHub stats](https://github-readme-stats.vercel.app/api?username=gardnertechhq&show_icons=true&theme=transparent)
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=gardnertechhq&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=dracula&include_all_commits=true"> -->
+</p>
+
+
+
 <!-- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gardnerdev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gardnerdev&theme=tokyonight)
