@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for opensource contribution (Python/Golang)
 
 <p align="center">
-  ![gardnertechhq's GitHub stats](https://github-readme-stats.vercel.app/api?username=gardnertechhq&show_icons=true&theme=transparent)
+  <img src="https://github-readme-stats.vercel.app/api?username=gardnertechhq&show_icons=true&theme=transparent">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=gardnertechhq&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=dracula&include_all_commits=true"> -->
 </p>
 
