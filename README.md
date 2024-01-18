@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   * [LeetCode](https://leetcode.com/gardnertechhq/)
 
 ### What am I up to now
-- 🌱 I’m learning real time data streaming and distributed systems
+- 🌱 I’m learning real time data streaming concepts and distributed systems design & architecture
 -  :link: I am fascinated by the society-changing potential of the  AI and blockchain technology
 
 <p align="center">
