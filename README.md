@@ -6,25 +6,14 @@
 Here are some ideas to get you started:
 -->
 - :man_student: I studied Information Technology at the [Warsaw Univeristy of Technology](https://www.pw.edu.pl/engpw)
-- 🔭 I’m currently working as developer in following areas: **DevSecOps**,**Cloud Engineering**,**MLOps**
+- 🔭 I’m currently working as developer in following areas: **DevSecOps**,**Cloud Engineering**,**MLOps**, **DataEngineering**
 - :man_technologist: My profiles:
   * [LeetCode](https://leetcode.com/gardnertechhq/)
 
 ### What am I up to now
-- 🌱 I’m learning Golang and distributed systems
--  :link: I am fascinated by the society-changing potential of the blockchain technology
-- 🤔 I’m looking for opensource contribution (Python/Golang)
+- 🌱 I’m learning real time data streaming and distributed systems
+-  :link: I am fascinated by the society-changing potential of the  AI and blockchain technology
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gardnertechhq&show_icons=true&custom_title=Github%20Stats&theme=dracula">
 </p>
-
-
-<!-- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gardnerdev&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gardnerdev&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gardnerdev&theme=tokyonight&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gardnerdev&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gardnerdev&theme=tokyonight)
- -->
-
