@@ -6,12 +6,12 @@
   * **Cloud Engineering**
   * **MLOps**
   * **Data Engineering**
-- 👨‍💻 Let's connect on:
+- 👨‍💻 Profiles:
   * [LeetCode](https://leetcode.com/gardnertechhq/)
 
 ### What's cookin' right now
 - 🌱 Exploring real-time data streaming and geeking out on distributed systems design & architecture.
--  :link: Excited about how AI and blockchain can shake things up in the world.
+-  :link: Excited about how AI and blockchain can change the world.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rchojn&show_icons=true&custom_title=Github%20Stats&theme=dracula">
