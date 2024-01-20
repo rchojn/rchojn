@@ -12,7 +12,7 @@ Here are some ideas to get you started:
   * **MLOps**
   * **Data Engineering**
 - :man_technologist: My profiles:
-  * [LeetCode](https://leetcode.com/gardnertechhq/)
+  * [LeetCode](https://leetcode.com/rchojn/)
 
 ### What am I up to now
 - 🌱 I’m learning real time data streaming concepts and distributed systems design & architecture
