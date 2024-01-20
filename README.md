@@ -7,7 +7,7 @@
   * **MLOps**
   * **Data Engineering**
 - 👨‍💻 Profiles:
-  * [LeetCode](https://leetcode.com/gardnertechhq/)
+  * [LeetCode](https://leetcode.com/rchojn/)
 
 ### What's cookin' right now
 - 🌱 Exploring real-time data streaming and geeking out on distributed systems design & architecture.
