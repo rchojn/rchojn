@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -  :link: I am fascinated by the society-changing potential of the  AI and blockchain technology
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gardnertechhq&show_icons=true&custom_title=Github%20Stats&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=rchojn&show_icons=true&custom_title=Github%20Stats&theme=dracula">
 </p>
