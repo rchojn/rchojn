@@ -2,8 +2,7 @@
 
 - 👨‍🎓 Graduated from [Warsaw University of Technology](https://www.pw.edu.pl/engpw) 🇵🇱
 - 🔭 Current focus:
-  * **DevSecOps**
-  * **Cloud Engineering**
+  * **CloudOps**
   * **MLOps**
   * **Data Engineering**
 - 👨‍💻 Profiles:
