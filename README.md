@@ -9,12 +9,13 @@
 - 👨‍💻 Profiles:
   * [LeetCode](https://leetcode.com/rchojn/)
 
-### What's cookin' right now
-- 🌱 Exploring real-time data streaming and geeking out on distributed systems design & architecture.
--  :link: Excited about how AI and blockchain can change the world.
+### What's cookin' right now 🌱
+- exploring real-time data streaming
+- geeking out on distributed systems design & architecture.
 
-/*  
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rchojn&show_icons=true&custom_title=Github%20Stats&theme=dracula">
 </p>
-*/
+-->
+
