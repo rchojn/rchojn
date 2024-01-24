@@ -2,9 +2,9 @@
 
 - 👨‍🎓 Graduated from [Warsaw University of Technology](https://www.pw.edu.pl/engpw) 🇵🇱
 - 🔭 Current focus:
-  * **Cloud & Data Engineering**
-  * **MLOps**
   * **DevSecOps**
+  * **MLOps**
+  * **Cloud & Data Engineering**
 - 👨‍💻 Profiles:
   * [LeetCode](https://leetcode.com/rchojn/)
 
