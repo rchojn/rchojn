@@ -9,7 +9,7 @@
   * [LeetCode](https://leetcode.com/rchojn/)
 
 ### **Exploring** 🌱
-- GEN AI, RAG, LLMs
+- gen ai, rag, llms
 - real-time data streaming
 - geeking out on distributed systems design & architecture
 
