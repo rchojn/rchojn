@@ -9,6 +9,7 @@
   * [LeetCode](https://leetcode.com/rchojn/)
 
 ### **Exploring** 🌱
+- AI / LLMs
 - real-time data streaming
 - geeking out on distributed systems design & architecture
 
