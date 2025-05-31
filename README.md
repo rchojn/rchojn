@@ -9,9 +9,11 @@
   * [LeetCode](https://leetcode.com/rchojn/)
 
 ### **Exploring** 🌱
-- gen ai, rag, llms
-- real-time data streaming
-- geeking out on distributed systems design & architecture
+- machine learning & AI systems
+- real-time data streaming & event processing
+- Go microservices & distributed architectures
+- system design patterns & scalability
+- cloud-native development & observability
 
 
 
