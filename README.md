@@ -24,7 +24,7 @@ Exploring advanced distributed systems patterns, Go concurrency, and cloud-nativ
 
 ----------------------------------------------------------------------------------------------------------------------
 
-💻[LeetCode](https://leetcode.com/rchojn/)  📧rafalchojnacki0502@gmail.com   📍 Warsaw, Poland
+💻[LeetCode](https://leetcode.com/rchojn/)  📧[rafalchojnacki0502@gmail.com](mailto:rafalchojnacki0502@gmail.com)   📍 Warsaw, Poland
 
 
 
