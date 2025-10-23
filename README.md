@@ -9,7 +9,7 @@ I design and build cloud platforms that enable engineering teams to move fast wh
 - Platform engineering and developer productivity
 - Distributed systems and cloud-native architecture
 - MLOps and GenAI/LLMOps infrastructure
-- Infrastructure automation and GitOps
+- Claud Engineering, infrastructure automation and GitOps
 
 
 ### **Projects** 
