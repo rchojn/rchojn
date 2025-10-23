@@ -21,6 +21,7 @@ Exploring advanced distributed systems patterns, Go concurrency, and cloud-nativ
 ### **Education** 
 - 👨‍🎓 [Warsaw University of Technology](https://www.pw.edu.pl/engpw) 🇵🇱
 
+
 ----------------------------------------------------------------------------------------------------------------------
 
 💻[LeetCode](https://leetcode.com/rchojn/)  📧rafalchojnacki0502@gmail.com   📍 Warsaw, Poland
