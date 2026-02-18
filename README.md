@@ -2,7 +2,7 @@ Hello! 👋
 
 I'm a Senior Engineer based in Warsaw. My technical bridge spans from building data platforms and cloud infrastructure (Python) to my current focus on systems engineering and distributed infrastructure (Go).
 
-For the last 6+ years, I’ve focused on building the platforms that help other engineers move faster. I started deep in the world of data and Python, scaling systems to handle global workloads. These days, I’m digging into the lower levels with Go—building the kind of reliability and performance tools that modern AI platforms actually needs.
+For the last 6+ years, I’ve focused on building the platforms that help other engineers move faster. I started deep in the world of data and Python, scaling systems to handle global workloads. These days, I’m digging into the lower levels with Go-building the kind of reliability and performance tools that modern AI platforms actually needs.
 
 I care about performance, observability, and the "unseen" plumbing that makes systems work at scale.
 
