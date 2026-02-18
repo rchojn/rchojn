@@ -1,18 +1,18 @@
 Hello! 👋
 
-I'm a **Senior Engineer** based in Warsaw. My technical bridge spans from building **Data Platforms & Cloud Infrastructure (Python)** to my current focus on **Systems Engineering & Distributed Infrastructure (Go)**.
+I'm a Senior Engineer based in Warsaw. My technical bridge spans from building data platforms and cloud infrastructure (Python) to my current focus on systems engineering and distributed infrastructure (Go).
 
-Over the last 6+ years, I’ve specialized in scaling MLOps pipelines on **AWS**, primarily within the high-stakes healthcare sector. I’ve spent thousands of hours in **Python** (with Poetry keeping things sane), but I’m now primarily building high-performance infrastructure and reliability tools in **Go**.
+For the last 6+ years, I’ve focused on building the platforms that help other engineers move faster. I started deep in the world of data and Python, scaling systems to handle global workloads. These days, I’m digging into the lower levels with Go—building the kind of reliability and performance tools that modern AI platforms actually needs.
 
 I care about performance, observability, and the "unseen" plumbing that makes systems work at scale.
 
 ### What I'm building
-*   [SafeReader](https://github.com/rchojn/safereader): A specialized RAG system for document intelligence.
+*   [SafeReader](https://github.com/rchojn/safereader): A specialized RAG system in Go designed for document intelligence.
 *   [GuardRail.ai](https://github.com/rchojn/guardrail): High-performance security middleware for LLM applications.
 
 ---
 
-💻 [LeetCode](https://leetcode.com/rchojn/) | 📧 [rafalchojnacki0502@gmail.com](mailto:rafalchojnacki0502@gmail.com) | 🎓 WUT 🇵🇱
+💻 [LeetCode](https://leetcode.com/rchojn/) | 📧 [rafalchojnacki0502@gmail.com](mailto:rafalchojnacki0502@gmail.com) | 🎓 [Warsaw University of Technology](https://www.pw.edu.pl/engpw) 🇵🇱
 
 ### Certifications
 [![CKAD](https://img.shields.io/badge/CKAD-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/432cdde1-69e8-46c8-985b-7c4198a248e9)
